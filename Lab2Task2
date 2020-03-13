@@ -1,0 +1,3 @@
+all:
+	gcc Lab2Task2.c Header2Lab2.c -o Lab2Task2 -lm -std=c89
+	./Lab2Task2.exe
